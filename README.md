@@ -25,3 +25,7 @@ The Main class includes comprehensive test cases that demonstrate:
 4. **Expired Product Exception** - Attempting to purchase expired products
 5. **Insufficient Balance Exception** - Customer doesn't have enough money
 
+
+## How to run  ? 
+Please RUN the Main file
+
